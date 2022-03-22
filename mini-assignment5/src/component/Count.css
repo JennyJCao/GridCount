@@ -1,0 +1,10 @@
+h1 {
+    width: 100%;
+    text-align: center;
+}
+
+
+#gridContainer {
+    display: grid;
+    grid-template-columns: 100px 100px;
+}
